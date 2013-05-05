@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/1">
+        <file>file:/C:/xampp/htdocs/Wedding/application/controllers/forgot_password.php</file>
+        <file>file:/C:/xampp/htdocs/Wedding/application/views/login.php</file>
+        <file>file:/C:/xampp/htdocs/Wedding/application/views/main.php</file>
+        <file>file:/C:/xampp/htdocs/Wedding/application/controllers/main_page.php</file>
+        <file>file:/C:/xampp/htdocs/Wedding/application/controllers/email_confirmation.php</file>
+        <file>file:/C:/xampp/htdocs/Wedding/application/config/config.php</file>
+        <file>file:/C:/xampp/htdocs/Wedding/application/config/migration.php</file>
+        <file>file:/C:/xampp/htdocs/Wedding/application/config/mimes.php</file>
+        <file>file:/C:/xampp/htdocs/Wedding/application/config/profiler.php</file>
+        <file>file:/C:/xampp/htdocs/Wedding/application/config/smileys.php</file>
+        <file>file:/C:/xampp/htdocs/Wedding/application/config/user_agents.php</file>
+        <file>file:/C:/xampp/htdocs/Wedding/application/views/reenter_password.php</file>
+        <file>file:/C:/xampp/htdocs/Wedding/application/models/demo_model.php</file>
+        <file>file:/C:/xampp/htdocs/Wedding/application/views/register.php</file>
+        <file>file:/C:/xampp/htdocs/Wedding/application/controllers/site.php</file>
+        <file>file:/C:/xampp/htdocs/Wedding/application/views/forgot_password.php</file>
+    </open-files>
+</project-private>
